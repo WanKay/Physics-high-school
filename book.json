@@ -1,0 +1,18 @@
+{
+
+	"title":"奇妙物理·高中篇",
+	"author":"苏格爸",
+	"description":"奇妙物理，妙悟其理！",
+	"language":"zh-hans",	
+	"links":{
+		"sidebar":{
+			"百度一下":"https://www.baidu.com",
+			"我的GitHub":"https://github.com/WanKay"
+		}
+	},			
+	"plugins":[
+		"-sharing",
+		"expandable-chapters"
+	]
+
+}
