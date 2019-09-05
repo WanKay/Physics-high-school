@@ -6,8 +6,8 @@
 	"language":"zh-hans",	
 	"links":{
 		"sidebar":{
-			"百度一下":"https://www.baidu.com",
-			"我的GitHub":"https://github.com/WanKay"
+			"wangkay.github.io":"https://wankay.github.io",
+			"github.com/Wankay":"https://github.com/WanKay"
 		}
 	},			
 	"plugins":[
